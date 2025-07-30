@@ -14,6 +14,8 @@ __pycache__/
 # FastAPI SQLite DB
 server/attendance.db
 
+node_modules
+
 # VSCode & OS files
 .vscode/
 .DS_Store
